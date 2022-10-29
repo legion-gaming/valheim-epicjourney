@@ -1,10 +1,12 @@
 {
     "name": "EpicJourney",
     "description": "This is an addition to Journey_To_Valhalla that adds EpicLoot drops for the added biomes and enemies.",
-    "version_number": "1.0.0",
+    "version_number": "2.0.0",
     "website_url": "https://github.com/legion-gaming/valheim-epicjourney",
     "dependencies": [
+        "ASharpPen-This_Goes_Here-2.1.1",
         "RandyKnapp-EpicLoot-0.8.9",
+        "southsil-SouthsilArmor-2.2.1",
         "thedefside-Journey_To_Valhalla-1.1.3"
     ]
 }

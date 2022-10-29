@@ -1,0 +1,6 @@
+PrintComment: Copying EpicJourney configs...
+CopyFile:
+- From: plugins/Legion-EpicJourney/RandyKnapp-EpicLoot/iteminfo.json
+  To: plugins/RandyKnapp-EpicLoot/iteminfo.json
+- From: plugins/Legion-EpicJourney/RandyKnapp-EpicLoot/loottables.json
+  To: plugins/RandyKnapp-EpicLoot/loottables.json
